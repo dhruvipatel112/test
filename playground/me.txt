@@ -1,4 +1,0 @@
-name: Dhruvi Vaishnav
-skills: AWS.AZURE, linux, Git/Github, networking, docker, kubernetes, CI/CD
-Email: d.vaishnav@icloud.com
-
